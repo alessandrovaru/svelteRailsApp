@@ -33,6 +33,7 @@ default: &default
     - .woff2
 
   extensions:
+    - .erb
     - .svelte
     - .mjs
     - .js
